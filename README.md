@@ -12,3 +12,7 @@
     
     pytho updateSG.py
 ```
+
+## note
+
+you need to make sure about the ranges of ips that you are going to use
